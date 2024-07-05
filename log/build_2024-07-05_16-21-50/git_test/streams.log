@@ -1,0 +1,24 @@
+[0.007s] Invoking command in '/media/lee/other/gitText/build/git_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /media/lee/other/gitText/build/git_test -- -j16 -l16
+[0.051s] [ 50%] Built target topicPub
+[0.052s] [100%] Built target topicSub
+[0.061s] Invoked command in '/media/lee/other/gitText/build/git_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /media/lee/other/gitText/build/git_test -- -j16 -l16
+[0.086s] Invoking command in '/media/lee/other/gitText/build/git_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /media/lee/other/gitText/build/git_test
+[0.093s] -- Install configuration: ""
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/ament_index/resource_index/package_run_dependencies/git_test
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/ament_index/resource_index/parent_prefix_path/git_test
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/environment/ament_prefix_path.sh
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/environment/ament_prefix_path.dsv
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/environment/path.sh
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/environment/path.dsv
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/local_setup.bash
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/local_setup.sh
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/local_setup.zsh
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/local_setup.dsv
+[0.093s] -- Installing: /media/lee/other/gitText/install/git_test/share/git_test/package.dsv
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/ament_index/resource_index/packages/git_test
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/cmake/git_testConfig.cmake
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/cmake/git_testConfig-version.cmake
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/package.xml
+[0.093s] -- Up-to-date: /media/lee/other/gitText/install/git_test/lib/git_test/topicPub
+[0.094s] -- Up-to-date: /media/lee/other/gitText/install/git_test/lib/git_test/topicSub
+[0.095s] Invoked command in '/media/lee/other/gitText/build/git_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /media/lee/other/gitText/build/git_test

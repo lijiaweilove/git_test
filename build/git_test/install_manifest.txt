@@ -1,0 +1,17 @@
+/media/lee/other/gitText/install/git_test/share/ament_index/resource_index/package_run_dependencies/git_test
+/media/lee/other/gitText/install/git_test/share/ament_index/resource_index/parent_prefix_path/git_test
+/media/lee/other/gitText/install/git_test/share/git_test/environment/ament_prefix_path.sh
+/media/lee/other/gitText/install/git_test/share/git_test/environment/ament_prefix_path.dsv
+/media/lee/other/gitText/install/git_test/share/git_test/environment/path.sh
+/media/lee/other/gitText/install/git_test/share/git_test/environment/path.dsv
+/media/lee/other/gitText/install/git_test/share/git_test/local_setup.bash
+/media/lee/other/gitText/install/git_test/share/git_test/local_setup.sh
+/media/lee/other/gitText/install/git_test/share/git_test/local_setup.zsh
+/media/lee/other/gitText/install/git_test/share/git_test/local_setup.dsv
+/media/lee/other/gitText/install/git_test/share/git_test/package.dsv
+/media/lee/other/gitText/install/git_test/share/ament_index/resource_index/packages/git_test
+/media/lee/other/gitText/install/git_test/share/git_test/cmake/git_testConfig.cmake
+/media/lee/other/gitText/install/git_test/share/git_test/cmake/git_testConfig-version.cmake
+/media/lee/other/gitText/install/git_test/share/git_test/package.xml
+/media/lee/other/gitText/install/git_test/lib/git_test/topicPub
+/media/lee/other/gitText/install/git_test/lib/git_test/topicSub

@@ -1,0 +1,4 @@
+Invoking command in '/media/lee/other/gitText/build/git_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /media/lee/other/gitText/build/git_test -- -j16 -l16
+Invoked command in '/media/lee/other/gitText/build/git_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /media/lee/other/gitText/build/git_test -- -j16 -l16
+Invoking command in '/media/lee/other/gitText/build/git_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /media/lee/other/gitText/build/git_test
+Invoked command in '/media/lee/other/gitText/build/git_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/rolling DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /media/lee/other/gitText/build/git_test

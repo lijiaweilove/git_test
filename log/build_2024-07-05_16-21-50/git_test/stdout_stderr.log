@@ -1,0 +1,20 @@
+[ 50%] Built target topicPub
+[100%] Built target topicSub
+-- Install configuration: ""
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/ament_index/resource_index/package_run_dependencies/git_test
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/ament_index/resource_index/parent_prefix_path/git_test
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/environment/ament_prefix_path.sh
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/environment/ament_prefix_path.dsv
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/environment/path.sh
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/environment/path.dsv
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/local_setup.bash
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/local_setup.sh
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/local_setup.zsh
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/local_setup.dsv
+-- Installing: /media/lee/other/gitText/install/git_test/share/git_test/package.dsv
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/ament_index/resource_index/packages/git_test
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/cmake/git_testConfig.cmake
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/cmake/git_testConfig-version.cmake
+-- Up-to-date: /media/lee/other/gitText/install/git_test/share/git_test/package.xml
+-- Up-to-date: /media/lee/other/gitText/install/git_test/lib/git_test/topicPub
+-- Up-to-date: /media/lee/other/gitText/install/git_test/lib/git_test/topicSub

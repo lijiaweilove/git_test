@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/media/lee/other/ROS2/dev_ws/install/example_interface/lib/python3.12/site-packages",
+        "/opt/ros/rolling/lib/python3.12/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/media/lee/other/ROS2/dev_ws/install/example_interface/lib/python3.12/site-packages",
+        "/opt/ros/rolling/lib/python3.12/site-packages"
+    ]
+}

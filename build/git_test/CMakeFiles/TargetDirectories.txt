@@ -1,0 +1,11 @@
+/media/lee/other/gitText/build/git_test/CMakeFiles/uninstall.dir
+/media/lee/other/gitText/build/git_test/CMakeFiles/git_test_uninstall.dir
+/media/lee/other/gitText/build/git_test/CMakeFiles/topicPub.dir
+/media/lee/other/gitText/build/git_test/CMakeFiles/topicSub.dir
+/media/lee/other/gitText/build/git_test/CMakeFiles/test.dir
+/media/lee/other/gitText/build/git_test/CMakeFiles/edit_cache.dir
+/media/lee/other/gitText/build/git_test/CMakeFiles/rebuild_cache.dir
+/media/lee/other/gitText/build/git_test/CMakeFiles/list_install_components.dir
+/media/lee/other/gitText/build/git_test/CMakeFiles/install.dir
+/media/lee/other/gitText/build/git_test/CMakeFiles/install/local.dir
+/media/lee/other/gitText/build/git_test/CMakeFiles/install/strip.dir
