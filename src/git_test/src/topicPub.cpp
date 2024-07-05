@@ -6,7 +6,7 @@ class PubNode : public rclcpp::Node
 public:
     PubNode(std::string name) : Node(name)
     {
-        RCLCPP_INFO(this->get_logger(),"我是V2topic%s",name.c_str());
+        RCLCPP_INFO(this->get_logger(),"我是V2topicmain%s",name.c_str());
         pub = this->create_publisher<std_msgs::msg::String>("command",10);
         timer = this->create_wall_timer(std::chrono::seconds(1),std::bind(&PubNode::timer_callback,this));
     }
